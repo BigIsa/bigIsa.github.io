@@ -7,18 +7,19 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`2013 - 2015`
+__North Carolina State University__
 Degree Awarded
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2009 - 2013`
+**Beihang University**
+Bachelor of Science in Mathematics
+
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2015`
+Student Ergonomic Research Competition, Organization
 
 ## Publications
 
@@ -26,37 +27,28 @@ Name of Award, Organization
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2015`
+VR-BD article, Assistive Technology
 
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
+`2014`
+First VRLI article, TOHFE
 
 ## Presentations
 
-`1994`
+`2016`
 Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
@@ -66,5 +58,3 @@ __Current Job Title__, Current Employer
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-

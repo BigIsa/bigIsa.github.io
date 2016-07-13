@@ -1,18 +1,18 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Personal Website of...
 locale:           en_US
-logo:
-url:		
+logo:             logo.png
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Isabel
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I haven't finish my website yet..."
+  email: wzhang28@ncsu.edu
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: Forgot!!
+  facebook: Wenjuan
   google:
     plus: #username
     analytics:
@@ -20,7 +20,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: BigIsa
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
